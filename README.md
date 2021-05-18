@@ -6,7 +6,7 @@ javascript <br />
 HTML <br />
 Runtime Environment:NodeJS<br />
 <h2><b><u>Project Demo</b></u></h2></br>
-<img src="https://github.com/shalini264/Weather_App/blob/main/demo.png"><br />
+<img src="https://github.com/shalini264/Quotes-generator/blob/main/pic.png"><br />
 <h2><u><b>SETUP:</b></u></h2> <br />
 1.install a latest text editor like VsCode or CodeBlocks on your system.<br />
 2.Install node.js and dependencies.<br />
