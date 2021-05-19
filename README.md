@@ -12,4 +12,4 @@ Runtime Environment:NodeJS<br />
 2.Install node.js and dependencies.<br />
 3.clone this repository to your system by running the following command in your terminal
 git clone https://github.com/shalini264/Quotes-generator .<br/>
-4.Open the cloned folder and run weather app on live server.
+4.Open the cloned folder and run random quotes generator on live server.
