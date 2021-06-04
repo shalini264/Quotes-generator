@@ -1,5 +1,5 @@
 # Quotes-generator
-Random quotes are being generated randomly by refreshing 
+Quotes are being generated randomly by refreshing 
 <br />
 <h2><u><b>Tools used:</b></u></h2> <br />
 javascript <br />
